@@ -41,7 +41,7 @@ DEFAULT_CONTACTS = [
 
 @dataclass(frozen=True)
 class Settings:
-    bot_token: str
+    bot_token: 8723704134:AAHWwg671Q0KfmQg08WWTkO3OqWWk3NeVio
     openai_api_key: str
     manager_chat_id: int
     google_sheet_name: str
